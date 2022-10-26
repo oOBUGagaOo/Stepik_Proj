@@ -19,5 +19,5 @@ public class Stepik_3_3_step3 {
         System.out.println(c);
     }
 }
-
+// test
 
